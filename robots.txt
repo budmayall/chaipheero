@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eehieweih.comfyshorts.com/sitemap.xml
